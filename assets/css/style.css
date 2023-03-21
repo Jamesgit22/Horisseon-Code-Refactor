@@ -103,7 +103,7 @@ aside {  /* changed .benefit to aside element */
     max-width: 150px;
 }
 
- section {  /*using section element selector instead of id selectors for the 3 sections in the main content of the webpage. */
+ .search-engine-optimization, #online-reputation-management, #social-media-marketing {  /*using class and id selectors*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
