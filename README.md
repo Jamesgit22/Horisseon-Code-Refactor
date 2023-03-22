@@ -1,13 +1,13 @@
 # Bootcamp module one challenge repo
 
 ## User story
----
+
 ### As a bootcamp student working through this first challenge.
 ### I want to change the codebase porvided to me so that it follows accessibility standards.
 ### This will make the codebase more readable and improve the websites optimization for search engines.
 ---
 ## Acceptance Criteria
----
+
 GIVEN a webpage meets accessibility standards.
 
 >WHEN I view the source code.
