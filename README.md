@@ -1,40 +1,46 @@
-# Bootcamp module one challenge repo
+# Horiseon Code Refactor
 
-## User story
+  ![MIT Badge](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-### As a bootcamp student working through this first challenge.
-### I want to change the codebase porvided to me so that it follows accessibility standards.
-### This will make the codebase more readable and improve the websites optimization for search engines.
----
-## Acceptance Criteria
+  ## Description:
+        
+  This is a beginner project to learn the basics of SEO (Search Engine Optimization).
+    
+  ---
+  
+  ## Table of Contents:
+    
+  - [Instillation](#instillation)
+  - [Usage](#usage)
+  - [ScreenShots](#screenshots)
+  - [License](#license)
+  - [Questions](#questions)
+  
+  ## Instillation:
+  
+  You cen view the live site [here](https://jamesgit22.github.io/Horisseon-Code-Refactor/) or if you would like to edit the code, you can also clone the [github repository](https://github.com/Jamesgit22/Horisseon-Code-Refactor) to your local files.
+  
+  ## Usage:
+  
+  To learn practice web development SEO standards.
+  
+  ## ScreenShots:
 
-GIVEN a webpage meets accessibility standards.
+  ![Alt text](assets/images/1.png)
 
->WHEN I view the source code.
->
->THEN I find semantic HTML elements.
+  ![Alt text](assets/images/2.png)
+  
+  ## License:
+  
+  This project uses the [MIT](https://opensource.org/licenses/MIT) license.
 
->WHEN I view the structure of the HTML elements.
->
->THEN I find that the elements follow a logical structure independent of styling and positioning.
+  ## Tests:
 
->WHEN I view the image elements.
->
->THEN I find accessible alt attributes.
+  ---
+  
+  ## Questions:
 
->WHEN I view the heading attributes.
->
->THEN they fall in sequential order.>
+  Please feel free to get in contact if you have any questions about this project.
 
->WHEN I view the title element.
->
->THEN I find a concise, descriptive title.
-
----
-
-## Included Files:
-
-> assests -> css -> style.css (The style sheet that house the css for this website.)
-
-> index.html (This file houses all of the html content for the website.)
-
+  - Github: [Jamesgit22](https://github.com/Jamesgit22)
+  - Email: jschroeder2296@gmail.com
